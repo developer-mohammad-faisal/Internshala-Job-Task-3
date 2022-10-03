@@ -1,0 +1,77 @@
+[  
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "category": "Men's Sneaker",
+      "name": "ULTRABOOST 22 SHOES",
+      "price": 420,
+      "qty" :1,
+      "color" : "pink",
+      "stock": "In stock",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg"
+    },
+    {
+     "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
+      "category": "Men's Pants",
+      "name": "TIRO 21 TRACK PANTS",
+      "price": 148,
+      "qty" :1,
+      "color":"black",
+      "stock": "In stock",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3cb8057730844247a568ac9800fa36fb_9366/Tiro_21_Track_Pants_Blue_GE5425_21_model.jpg"
+    },
+    
+    {
+      "id": "6602468a-a3a8-4c2c-9d3a-fd54e2c5daf7",
+      "category": "Men's Boot",
+      "name": "RESPONSE 3MC ADV BOOTS",
+      "price": 104,
+      "qty" :1,
+      "color":"green",
+      "stock": "out of stock",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b513f2cec8b440978d60ab6d014ad452_9366/Response_3MC_ADV_Boots_Black_EG9391_01_standard.jpg"
+    },
+   
+    {
+      "id": "4a0090e7-b65d-4f6e-a42b-5603a3f51883",
+      "category": "Bag",
+      "name": "3-Stripes Backpack 2.0",
+      "price": 74,
+      "qty" :1,
+      "color":"pink",
+      "stock": "In stock",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/ba79ccb861fd4fd49e3aac9f006a6407_9366/3-Stripes_Backpack_2.0_Grey_EX6735_01_standard.jpg"
+    },
+   
+       {
+      "id": "d48e0fcb-904c-499e-93a0-312d77e6dbf9",
+      "category": "Cap",
+      "name": "Superlite Hat",
+      "price": 11,
+      "qty" :1,
+      "color":"black",
+      "stock": "out of stock",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/0ae141db6fce44999337ac8e015954ea_9366/Superlite_Hat_Grey_EX7054_01_standard.jpg"
+    },
+   
+    {
+      "id": "b278e667-ca17-465c-b603-af1af4319b7b",
+      "category": "Earphones",
+      "name": "adidas Z.N.E. 01 ANC True Wireless Earbuds",
+      "price": 135,
+      "qty" :1,
+      "color":"blue",
+      "stock": "In stock",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/b322cdef8e654551ace9adcc00f963ed_9366/adidas_Z.N.E._01_ANC_True_Wireless_Earbuds_Grey_EY5114_41_detail.jpg"
+    },
+   
+   {
+      "id": "eaff8921-f7eb-446f-b072-d96559685de0",
+      "category": "Bottle",
+      "name": "Steel Metal Bottle 1L",
+      "price": 40,
+      "qty" :1,
+      "color":"yellow",
+      "stock": "In stock",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/c45df020e3ae4e9199a4ac7d0001cfb7_9366/Steel_Metal_Bottle_1L_White_EX7301_01_standard.jpg"
+    }
+  ]
